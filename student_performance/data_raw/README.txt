@@ -1,0 +1,5 @@
+->gender = 'Female' or 'Male'
+->race/ethnicity = 'group A' or 'group B' or 'group C' or 'group D'
+->parental level of education = 'bachelor's degree' or 'some college' or 'master's degree' or 'associate's degree' or 'high school' or 'some high school'
+->lunch = 'standard' or 'free/reduced'
+->test preparation course = 'none' or 'completed'
